@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[scrapbook] https://stuff.stromatolite.org/index.php/apps/files/?dir=/pub/scrapbook&fileid=112
+[scrapbook](https://stuff.stromatolite.org/index.php/apps/files/?dir=/pub/scrapbook&fileid=112)
 
 <!--
 **kleymik/kleymik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
