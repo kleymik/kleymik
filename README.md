@@ -1,7 +1,8 @@
 
-[scrapbook](https://stuff.stromatolite.org/index.php/apps/files/?dir=/pub/scrapbook&fileid=112)
+[scrapbook](https://stuff.stromatolite.org/index.php/s/sD2AyMN3tkerLFf)
 
 <!--
+https://stuff.stromatolite.org/index.php/apps/files/?dir=/pub/scrapbook&fileid=112
 
 ### Hi there 👋
 
