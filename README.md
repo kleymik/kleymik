@@ -1,6 +1,9 @@
 
 [scrapbook](https://stuff.stromatolite.org/index.php/s/sD2AyMN3tkerLFf)
 
+
+[cenaculumMentis](https://stuff.stromatolite.org/index.php/s/Nt6XdS9bjX6iGqt)
+
 <!--
 https://stuff.stromatolite.org/index.php/apps/files/?dir=/pub/scrapbook&fileid=112
 
